@@ -1,0 +1,29 @@
+// 轮播
+http://w.lefeng.com/api/neptune/brand/ad/v3?zoneId=943%2C478%2C496%2C693%2C724%2C725%2C726%2C727%2C728&resolution=375x667&appName=lefeng_android&version=4.1.1
+//品牌专长
+http://w.lefeng.com/api/neptune/special_brands/v3?page=1&labelType=1
+// 详情1
+http://w.lefeng.com/api/neptune/goods/list_with_stock/v1?brandId=800045401&start=1
+//                                                                                                 460006593880838205
+http://w.lefeng.com/api/neptune/appraise/get_appraise_list/v1?page=1&pageSize=3&scoreLevel=0&spuId=460006593880838171
+                                                                                                   7930915237186273000
+http://w.lefeng.com/api/neptune/appraise/get_appraise_list/v1?page=1&pageSize=3&scoreLevel=0&spuId=7930915237186273298
+http://w.lefeng.com/api/neptune/appraise/get_appraise_list/v1?page=1&pageSize=3&scoreLevel=0&spuId=307728597893668864
+http://w.lefeng.com/api/neptune/handpick_list/v1?stochastic=1&start=1
+http://w.lefeng.com/api/neptune/handpick_list/v1?stochastic=1&start=1
+
+
+//http://w.lefeng.com/api/neptune/search/hot_keywords/v1?count=10&highlight=1  搜索
+
+
+http://w.lefeng.com/api/neptune/search/search_by_keyword/v1?keyword=%E7%B2%89%E9%A5%BC  // 搜索内容
+
+http://w.lefeng.com/api/neptune/search/suggestion/v1?keyword=nv&count=15   sos
+
+http://w.lefeng.com/api/neptune/goods/get_thirdcat_size/v1?keyword=%E7%B2%89%E9%A5%BC  //筛选
+
+http://w.lefeng.com/api/neptune/search/search_by_keyword/v1?keyword=%E5%A5%B3%E6%80%A7%E9%A6%99%E6%B0%B4
+
+http://w.lefeng.com/api/neptune/cart/get/v2
+
+http://w.lefeng.com/api/neptune/goods/detail_with_stock/size_ids/v1?sizeIds=462067671
